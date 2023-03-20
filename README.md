@@ -18,7 +18,7 @@
   - Round Robin (RR)
   - Priority Scheduling (PS)
   - Priority Scheduling with Round Robin (PSRR)
-- Dynamic Storage Allocation Problems
+- Dynamic Storage Allocation Problems :
   - First Fit
   - Best Fit
   - Worst Fit
